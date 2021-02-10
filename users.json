@@ -2,4 +2,9 @@
     "id": 1,
     "first_name": "Praveen",
     "last_name": "Durairaju"
-}]
+}, {
+    "id": 2,
+    "first_name": "Dhruv",
+    "last_name": "Suthar"
+}
+]
